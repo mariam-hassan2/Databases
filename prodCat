@@ -1,0 +1,11 @@
+
+create table prodCat(
+prodCatID varchar(5),
+parentprodcatID varchar(5),
+name varchar(20),
+primary key(prodCatID))
+
+
+
+
+
